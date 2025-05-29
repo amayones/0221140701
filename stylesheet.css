@@ -14,7 +14,7 @@ body {
 }
 
 .peach {
-	background-color: #e727ca;
+	background-color: #A8F1FF;
 
 }
 
@@ -28,111 +28,111 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	25% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	50% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	75% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	100% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 }
 
 @-moz-keyframes peach_alive {
 	0% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	25% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	50% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	75% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	100% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	25% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	50% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	75% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	100% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	25% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	50% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	75% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	100% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 }
 
 @keyframes peach_alive {
 	0% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	25% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	50% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	75% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 
 	100% {
-		background-color: #e727ca;
+		background-color: #A8F1FF;
 	}
 }
 
@@ -1271,7 +1271,7 @@ audio {
 	}
 }
 
-o @keyframes bannar_come {
+@keyframes bannar_come {
 	0% {
 		transform: translate(0px, -1000px);
 	}
